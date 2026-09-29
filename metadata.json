@@ -1,0 +1,6 @@
+{
+  "name": "RepoHost CI/CD & SSL Deployment Studio",
+  "description": "Configure Git repositories, generate automated continuous integration & deployment pipelines (GitHub Actions, Docker, Cloud Run, VPS), and provision automated Let's Encrypt SSL certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
